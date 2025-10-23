@@ -3,7 +3,7 @@ streamlit
 faiss-cpu
 cohere
 groq
-PyMuPDF>=1.23.8
+pymupdf
 langchai
 langchain-community
 
@@ -24,4 +24,5 @@ pytest-cov
 pytest-mock
 
 streamlit-testing
+
 
