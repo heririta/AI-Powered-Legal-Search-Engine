@@ -1,11 +1,11 @@
 # Core dependencies
-streamlit
-faiss-cpu
-cohere
-groq
-pymupdf
-langchai
-langchain-community
+streamlit>=1.28.0
+faiss-cpu>=1.7.4
+cohere>=4.39.0
+groq>=0.4.1
+PyMuPDF>=1.23.8
+langchain>=0.0.350
+langchain-community>=0.0.4
 
 # Utilities
 python-dotenv
@@ -24,5 +24,6 @@ pytest-cov
 pytest-mock
 
 streamlit-testing
+
 
 
