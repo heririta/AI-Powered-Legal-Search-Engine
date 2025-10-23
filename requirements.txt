@@ -1,0 +1,25 @@
+# Core dependencies
+streamlit>=1.28.0
+faiss-cpu>=1.7.4
+cohere>=4.39.0
+groq>=0.4.1
+PyMuPDF>=1.23.8
+langchain>=0.0.350
+langchain-community>=0.0.4
+
+# Utilities
+python-dotenv>=1.0.0
+pydantic>=1.10.0
+numpy>=1.24.0
+pandas>=2.0.0
+tqdm>=4.66.0
+
+# PDF processing
+unstructured[pdf]>=0.11.0
+pillow>=10.0.0
+
+# Development and testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-mock>=3.11.1
+streamlit-testing>=0.1.0
